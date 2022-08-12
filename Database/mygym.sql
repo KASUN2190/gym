@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `admin_email`, `admin_pass`) VALUES
-(1, 'Kasunmadusanka2190@gmail.com', '12345');
+(1, 'Kasunmadusanka@gmail.com', '12345');
 
 -- --------------------------------------------------------
 
@@ -142,8 +142,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `user_name`, `user_email`, `user_pass`, `user_weight`, `user_age`, `user_contact`) VALUES
-(2, 'Kasun', 'Kasunmadusanka2190@gmail.com', '12345', 70, 25, '7212401'),
-(3, 'Madusanka', 'Kasunmadusanka2190@gmail.com', '12345', 64, 23, '1111111');
+(2, 'Kasun', 'Kasunmadusanka@gmail.com', '12345', 70, 25, '7212401'),
+(3, 'Madusanka', 'Kasunmadusanka@gmail.com', '12345', 64, 23, '1111111');
 
 --
 -- Indexes for dumped tables
