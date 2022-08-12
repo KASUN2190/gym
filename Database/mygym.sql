@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 04, 2018 at 04:05 PM
+-- Generation Time: August 04, 2022 at 04:05 PM
 -- Server version: 10.1.26-MariaDB
 -- PHP Version: 7.1.9
 
@@ -112,14 +112,14 @@ CREATE TABLE `trainer` (
 --
 
 INSERT INTO `trainer` (`tran_id`, `tran_name`, `tran_class`, `tran_contact`) VALUES
-(1, 'Ali', 'Barbell hip thrust', '00000'),
-(2, 'Mohsin', 'Bench Press', '11111'),
-(3, 'Awais', 'Deadlift', '22222'),
-(4, 'Zubair', 'Dumbbell romanian de', '33333'),
-(5, 'Ahsan', 'Farmer Walk', '44444'),
-(6, 'Ahmad', 'Hamstring curl', '55555'),
-(7, 'Hamza', 'Pullup', '66666'),
-(8, 'Talha', 'Suspended inverted r', '66666');
+(1, 'Nuwan', 'Barbell hip thrust', '00000'),
+(2, 'Namal', 'Bench Press', '11111'),
+(3, 'Mahinda', 'Deadlift', '22222'),
+(4, 'Janka', 'Dumbbell romanian de', '33333'),
+(5, 'Sanjaya', 'Farmer Walk', '44444'),
+(6, 'Sahan', 'Hamstring curl', '55555'),
+(7, 'Kalindu', 'Pullup', '66666'),
+(8, 'Jagath', 'Suspended inverted r', '66666');
 
 -- --------------------------------------------------------
 
