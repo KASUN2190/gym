@@ -112,7 +112,7 @@ include ("functions/functions.php");
 
 		<!-- footer Start -->
 		<div class="footer">
-			<h5 style="color:#000; padding-top:30px; text-align:center; font-family: Verdana, Geneva, sans-serif">&copy; 2022 all rights reserved | Developed By: <a href="https://www.facebook.com/kasun.madusanka.3576224">Kasun Madusanka</a></h5>
+			<h5 style="color:#000; padding-top:30px; text-align:center; font-family: Verdana, Geneva, sans-serif">&copy; 2022 all rights reserved | Developed By: <a href="https://www.facebook.com/">Kasun Madusanka</a></h5>
 		</div>
 		<!-- Footer End -->
 
